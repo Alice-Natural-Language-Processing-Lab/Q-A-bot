@@ -20,7 +20,9 @@ Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus, "End-To-End Memory
 
 Note. For now one can only use words from the existing vocab.
 
-     my_story = "John left the kitchen . Sandra dropped the football in the garden ."
-     my_question = "Is the football in the garden ?"
-     Predicted answer is:  yes
-     Probability of certainty was:  0.9991091
+     >>> my_story = "John left the kitchen . Sandra dropped the football in the garden ."
+     
+     >>> my_question = "Is the football in the garden ?"
+     
+     >>> Predicted answer is:  yes
+     >>> Probability of certainty was:  0.9991091
